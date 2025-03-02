@@ -18,7 +18,7 @@ Click the button below to open the notebook in Google Colab and start experiment
 To clone this repository to your local machine, run the following command:  
 
 ```bash
-git clone [https://github.com/mahdi-khoshmaram/your-repo-name.git](https://github.com/mahdi-khoshmaram/Full-FineTune-T5.git)
+git clone https://github.com/mahdi-khoshmaram/Full-FineTune-T5.git
 ```
 
 ## 🌟 Support & Star the Repo!  
