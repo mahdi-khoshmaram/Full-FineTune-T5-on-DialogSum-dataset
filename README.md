@@ -3,8 +3,9 @@
 
 
 ## Overview  
-This repository contains a Jupyter Notebook for full fine-tuning the **T5** large language model on the [DialogSum dataset](https://huggingface.co/datasets/knkarthick/dialogsum). The notebook demonstrates two fine-tuning approaches:  
+This repository contains a Jupyter Notebook for full fine-tuning the **T5** large language model on the [DialogSum dataset](https://huggingface.co/datasets/knkarthick/dialogsum).
 
+The notebook demonstrates two fine-tuning approaches:  
 1. Fine-tuning with the 🤗 **Transformers Trainer**  
 2. Fine-tuning using **native PyTorch**  
 
@@ -17,7 +18,7 @@ Click the button below to open the notebook in Google Colab and start experiment
 To clone this repository to your local machine, run the following command:  
 
 ```bash
-git clone [https://github.com/mahdi-khoshmaram/your-repo-name.git](https://github.com/mahdi-khoshmaram/Full-FineTuning-T5-on-DialogSum-dataset.git)
+git clone [https://github.com/mahdi-khoshmaram/your-repo-name.git](https://github.com/mahdi-khoshmaram/Full-FineTune-T5.git)
 ```
 
 ## 🌟 Support & Star the Repo!  
